@@ -1,11 +1,11 @@
-# Studious 📚
+# LUME 📚
 
 A beautiful study tracker with AI coaching, session analytics, and a calendar to-do system.
 
 ## Structure
 
 ```
-studious/
+lume/
 ├── backend/
 │   ├── app.py              # Flask API + Claude AI endpoint
 │   └── requirements.txt
@@ -17,14 +17,14 @@ studious/
 │   │   ├── index.js
 │   │   └── index.css
 │   └── package.json
-├── studious.code-workspace # Open this in VS Code
+├── lume.code-workspace # Open this in VS Code
 └── README.md
 ```
 
 ## Quickstart
 
 ### 1. Open in VS Code
-Double-click `studious.code-workspace` — VS Code opens with frontend and backend as separate root folders.
+Double-click `lume.code-workspace` — VS Code opens with frontend and backend as separate root folders.
 
 ### 2. Backend
 ```bash

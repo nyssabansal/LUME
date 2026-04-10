@@ -1,6 +1,6 @@
 {
   "folders": [
-    { "name": "Studious (root)", "path": "." },
+    { "name": "Lume (root)", "path": "." },
     { "name": "frontend", "path": "frontend" },
     { "name": "backend", "path": "backend" }
   ],
